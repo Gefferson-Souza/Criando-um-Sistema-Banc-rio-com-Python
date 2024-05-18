@@ -1,4 +1,4 @@
-from typing import List, Type
+from typing import List
 
 class Banco:
     MAX_SAQUES_DIARIOS:int = 3
